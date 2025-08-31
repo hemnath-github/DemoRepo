@@ -1,4 +1,4 @@
-Road Traffic Accidents(RTA) Analysis - Documentation. 
+Road Traffic Accidents(RTA) Analysis - Data Cleaning Documentation. 
 ROAD TRAFFIC ACCIDENT ANALYSIS (RTA).
 
 
@@ -25,4 +25,5 @@ Content :
         one duplicate values is deleted.
 
 (iii)  Third, Scaling the accident severity like 1-slight injury, 2-serious injury, 3-fatal injury. Put, the borders of the that table and ready for next phase analysis. 
+
 
